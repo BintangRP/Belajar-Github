@@ -1,1 +1,4 @@
-Ini adalah text .txt 
+Hello World(.)txt
+---
+
+ingin membuat conflict merge
