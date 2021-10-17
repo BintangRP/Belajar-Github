@@ -1,4 +1,5 @@
-
 Ini adalah text .txt 
 ---
 hal berbeda pada setiap isi dalam hello.txt akan mengakibatkan conflict ketika di merge
+
+- Melakukan ulasan pada setiap perubahan code
