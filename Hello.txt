@@ -2,10 +2,3 @@
 Ini adalah text .txt 
 ---
 hal berbeda pada setiap isi dalam hello.txt akan mengakibatkan conflict ketika di merge
-
-Project yang ingin dilakukan
-- membuat real project
-- membuat portofolio project
-- membuat API project
-- membuat CRUD + Authentication project
-- membuat algorithm visual project
